@@ -7,4 +7,4 @@ If you wanna build them yourself, run `npm install` in the root, and then run `n
 
 That really shouldn't be needed since there are Mac executables included.
 
-![Pretty sa UI]('ui.jpg')
+![Pretty UI]("https://raw.githubusercontent.com/DhruvDh/project_3_itcs_6114/master/ui.jpg)
